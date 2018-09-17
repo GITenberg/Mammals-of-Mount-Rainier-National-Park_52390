@@ -1,5 +1,8 @@
 _repo: Mammals-of-Mount-Rainier-National-Park_52390
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52390-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Grater, Russell K.
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '46837'
     url: http://www.gutenberg.org/2009/agents/46837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52390#Mammals-of-Mount-Rainier-National-Park
 gutenberg_issued: '2016-06-21'
 gutenberg_type: Text
 identifiers:
