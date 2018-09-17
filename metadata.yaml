@@ -1,0 +1,27 @@
+_repo: Mammals-of-Mount-Rainier-National-Park_52390
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Grater, Russell K.
+    gutenberg_agent_id: '46838'
+    url: http://www.gutenberg.org/2009/agents/46838
+  - agent_name: Potts, Merlin K.
+    birthdate: 1915
+    gutenberg_agent_id: '46837'
+    url: http://www.gutenberg.org/2009/agents/46837
+description: ''
+gutenberg_issued: '2016-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52390'
+  lccn: '58049085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mammals -- Washington (State) -- Mount Rainier National Park'
+- !lcc 'QL'
+- GITenberg
+title: Mammals of Mount Rainier National Park
+url: http://www.gutenberg.org/ebooks/52390
